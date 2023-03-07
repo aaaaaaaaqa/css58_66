@@ -1,0 +1,18 @@
+div 
+{
+    width: 617px;
+    background-color: #008000;
+    font-size: 19mm;
+}
+#blok1_okroj:hover
+{
+    background-color:#0000ff;
+}
+#blok2_okroj:hover
+{
+    background-color:#ffff00;
+}
+#blok3_okroj:hover
+{
+    background-color:#FFD700;
+}
