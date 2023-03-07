@@ -1,0 +1,47 @@
+div#pierwszy_okroj
+{
+    width: 804pt ;
+    border-top-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color:#ffc0cb;
+    border: #800080 solid 7px;
+}
+div#drugi_okroj
+{
+    width: 1004pt ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #90ee90;
+    border-top-right-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border: #000000 solid 3px;
+}
+div#trzeci_okroj
+{
+    width: 1204pt ;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #add8e6;
+    border-top-right-radius: 19px;
+    border-top-right-radius: 19px;
+    border-bottom-left-radius: 19px;
+    border-bottom-right-radius: 19px;
+    border: #000080 solid 5px;
+}
+p
+{
+    font-size:10pt;
+}
+p:first-child
+{
+    font-size:9mm;
+    font-style:italic;
+}
+body
+{
+    background-color: #808080;
+}
