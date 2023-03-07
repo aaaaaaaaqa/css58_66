@@ -1,0 +1,9 @@
+p
+{
+font-size:17pt;
+}
+p:first-child
+{
+font-size:17pt;
+font-style:italic;
+}
